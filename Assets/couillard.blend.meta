@@ -1,0 +1,219 @@
+fileFormatVersion: 2
+guid: 3af8e950c04f6ed4cac91d7aa071e5e2
+timeCreated: 1506695540
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: axe
+    100002: axe_roulement
+    100004: boulet
+    100006: bourse_1
+    100008: bourse_1_roulement
+    100010: bourse_2
+    100012: bourse_2_roulement
+    100014: //RootNode
+    100016: perche
+    100018: perche_axe
+    100020: renfort
+    100022: renfort_1
+    100024: renfort_2
+    100026: support
+    400000: axe
+    400002: axe_roulement
+    400004: boulet
+    400006: bourse_1
+    400008: bourse_1_roulement
+    400010: bourse_2
+    400012: bourse_2_roulement
+    400014: //RootNode
+    400016: perche
+    400018: perche_axe
+    400020: renfort
+    400022: renfort_1
+    400024: renfort_2
+    400026: support
+    2300000: axe
+    2300002: axe_roulement
+    2300004: boulet
+    2300006: bourse_1
+    2300008: bourse_1_roulement
+    2300010: bourse_2
+    2300012: bourse_2_roulement
+    2300014: perche
+    2300016: perche_axe
+    2300018: renfort
+    2300020: renfort_1
+    2300022: renfort_2
+    2300024: support
+    3300000: axe
+    3300002: axe_roulement
+    3300004: boulet
+    3300006: bourse_1
+    3300008: bourse_1_roulement
+    3300010: bourse_2
+    3300012: bourse_2_roulement
+    3300014: perche
+    3300016: perche_axe
+    3300018: renfort
+    3300020: renfort_1
+    3300022: renfort_2
+    3300024: support
+    4300000: boulet
+    4300002: perche
+    4300004: perche_axe
+    4300006: bourse_2
+    4300008: bourse_2_roulement
+    4300010: bourse_1
+    4300012: bourse_1_roulement
+    4300014: axe
+    4300016: axe_roulement
+    4300018: renfort
+    4300020: renfort_1
+    4300022: renfort_2
+    4300024: support
+    7400000: Default Take
+    7400002: Default Take //// boulet
+    7400004: Default Take //// perche
+    7400006: Default Take //// axe
+    9500000: //RootNode
+    11100000: //RootNode
+    11100002: axe
+    11100004: axe_roulement
+    11100006: boulet
+    11100008: bourse_1
+    11100010: bourse_1_roulement
+    11100012: bourse_2
+    11100014: bourse_2_roulement
+    11100016: perche
+    11100018: perche_axe
+    11100020: renfort
+    11100022: renfort_1
+    11100024: renfort_2
+    11100026: support
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 89
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: axe
+        weight: 1
+      - path: axe/axe_roulement
+        weight: 1
+      - path: axe/renfort
+        weight: 1
+      - path: axe/renfort_1
+        weight: 1
+      - path: axe/renfort_2
+        weight: 1
+      - path: axe/support
+        weight: 1
+      - path: boulet
+        weight: 1
+      - path: perche
+        weight: 1
+      - path: perche/bourse_1
+        weight: 1
+      - path: perche/bourse_1/bourse_1_roulement
+        weight: 1
+      - path: perche/bourse_2
+        weight: 1
+      - path: perche/bourse_2/bourse_2_roulement
+        weight: 1
+      - path: perche/perche_axe
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
